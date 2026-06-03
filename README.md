@@ -18,6 +18,7 @@ The project is intended for learning and understanding core Apache Kafka concept
 ## Prerequisites
 
 - Java 21
+- Spring Boot 3.x
 - Apache Kafka
 - Maven
 
