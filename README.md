@@ -226,7 +226,7 @@ bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic
 # Repository Structure
 
 ```text
-spring-boot-kafka-examples
+springboot-kafka-messaging
 │
 ├── kafka-producer-app
 │   └── Spring Boot Producer
